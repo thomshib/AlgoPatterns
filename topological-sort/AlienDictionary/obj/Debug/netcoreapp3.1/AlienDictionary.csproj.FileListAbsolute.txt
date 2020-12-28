@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/bin/Debug/netcoreapp3.1/AlienDictionary.deps.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/bin/Debug/netcoreapp3.1/AlienDictionary.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/bin/Debug/netcoreapp3.1/AlienDictionary.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/bin/Debug/netcoreapp3.1/AlienDictionary.dll
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/bin/Debug/netcoreapp3.1/AlienDictionary.pdb
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/obj/Debug/netcoreapp3.1/AlienDictionary.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/obj/Debug/netcoreapp3.1/AlienDictionary.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/obj/Debug/netcoreapp3.1/AlienDictionary.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/obj/Debug/netcoreapp3.1/AlienDictionary.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/obj/Debug/netcoreapp3.1/AlienDictionary.dll
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/obj/Debug/netcoreapp3.1/AlienDictionary.pdb
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/AlienDictionary/obj/Debug/netcoreapp3.1/AlienDictionary.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/bin/Debug/netcoreapp3.1/basic.deps.json
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/bin/Debug/netcoreapp3.1/basic.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/bin/Debug/netcoreapp3.1/basic.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/bin/Debug/netcoreapp3.1/basic.dll
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/bin/Debug/netcoreapp3.1/basic.pdb
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/obj/Debug/netcoreapp3.1/basic.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/obj/Debug/netcoreapp3.1/basic.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/obj/Debug/netcoreapp3.1/basic.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/obj/Debug/netcoreapp3.1/basic.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/obj/Debug/netcoreapp3.1/basic.dll
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/obj/Debug/netcoreapp3.1/basic.pdb
+/Users/shibut/Documents/Samples/Algorithms/cyclic-sort/basic/obj/Debug/netcoreapp3.1/basic.genruntimeconfig.cache

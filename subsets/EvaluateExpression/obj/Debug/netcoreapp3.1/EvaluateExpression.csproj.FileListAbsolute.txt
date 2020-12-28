@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/bin/Debug/netcoreapp3.1/EvaluateExpression.deps.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/bin/Debug/netcoreapp3.1/EvaluateExpression.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/bin/Debug/netcoreapp3.1/EvaluateExpression.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/bin/Debug/netcoreapp3.1/EvaluateExpression.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/bin/Debug/netcoreapp3.1/EvaluateExpression.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/obj/Debug/netcoreapp3.1/EvaluateExpression.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/obj/Debug/netcoreapp3.1/EvaluateExpression.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/obj/Debug/netcoreapp3.1/EvaluateExpression.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/obj/Debug/netcoreapp3.1/EvaluateExpression.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/obj/Debug/netcoreapp3.1/EvaluateExpression.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/obj/Debug/netcoreapp3.1/EvaluateExpression.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/EvaluateExpression/obj/Debug/netcoreapp3.1/EvaluateExpression.genruntimeconfig.cache

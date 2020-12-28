@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/bin/Debug/netcoreapp3.1/SortArrayInPlace.deps.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/bin/Debug/netcoreapp3.1/SortArrayInPlace.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/bin/Debug/netcoreapp3.1/SortArrayInPlace.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/bin/Debug/netcoreapp3.1/SortArrayInPlace.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/bin/Debug/netcoreapp3.1/SortArrayInPlace.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/obj/Debug/netcoreapp3.1/SortArrayInPlace.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/obj/Debug/netcoreapp3.1/SortArrayInPlace.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/obj/Debug/netcoreapp3.1/SortArrayInPlace.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/obj/Debug/netcoreapp3.1/SortArrayInPlace.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/obj/Debug/netcoreapp3.1/SortArrayInPlace.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/obj/Debug/netcoreapp3.1/SortArrayInPlace.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortArrayInPlace/obj/Debug/netcoreapp3.1/SortArrayInPlace.genruntimeconfig.cache

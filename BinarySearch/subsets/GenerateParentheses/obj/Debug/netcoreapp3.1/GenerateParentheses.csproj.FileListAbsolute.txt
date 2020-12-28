@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/bin/Debug/netcoreapp3.1/GenerateParentheses.deps.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/bin/Debug/netcoreapp3.1/GenerateParentheses.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/bin/Debug/netcoreapp3.1/GenerateParentheses.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/bin/Debug/netcoreapp3.1/GenerateParentheses.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/bin/Debug/netcoreapp3.1/GenerateParentheses.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/obj/Debug/netcoreapp3.1/GenerateParentheses.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/obj/Debug/netcoreapp3.1/GenerateParentheses.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/obj/Debug/netcoreapp3.1/GenerateParentheses.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/obj/Debug/netcoreapp3.1/GenerateParentheses.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/obj/Debug/netcoreapp3.1/GenerateParentheses.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/obj/Debug/netcoreapp3.1/GenerateParentheses.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/GenerateParentheses/obj/Debug/netcoreapp3.1/GenerateParentheses.genruntimeconfig.cache

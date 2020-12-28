@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/bin/Debug/netcoreapp3.1/LevelOrderSuccessor.deps.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/bin/Debug/netcoreapp3.1/LevelOrderSuccessor.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/bin/Debug/netcoreapp3.1/LevelOrderSuccessor.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/bin/Debug/netcoreapp3.1/LevelOrderSuccessor.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/bin/Debug/netcoreapp3.1/LevelOrderSuccessor.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/obj/Debug/netcoreapp3.1/LevelOrderSuccessor.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/obj/Debug/netcoreapp3.1/LevelOrderSuccessor.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/obj/Debug/netcoreapp3.1/LevelOrderSuccessor.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/obj/Debug/netcoreapp3.1/LevelOrderSuccessor.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/obj/Debug/netcoreapp3.1/LevelOrderSuccessor.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/obj/Debug/netcoreapp3.1/LevelOrderSuccessor.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderSuccessor/obj/Debug/netcoreapp3.1/LevelOrderSuccessor.genruntimeconfig.cache

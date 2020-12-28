@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MinimumMeetingRooms/1.0.0": {
+        "runtime": {
+          "MinimumMeetingRooms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimumMeetingRooms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/obj/Debug/netcoreapp3.1/InsertInterval.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/obj/Debug/netcoreapp3.1/InsertInterval.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/obj/Debug/netcoreapp3.1/InsertInterval.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/obj/Debug/netcoreapp3.1/InsertInterval.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/bin/Debug/netcoreapp3.1/InsertInterval.deps.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/bin/Debug/netcoreapp3.1/InsertInterval.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/bin/Debug/netcoreapp3.1/InsertInterval.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/bin/Debug/netcoreapp3.1/InsertInterval.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/bin/Debug/netcoreapp3.1/InsertInterval.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/obj/Debug/netcoreapp3.1/InsertInterval.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/obj/Debug/netcoreapp3.1/InsertInterval.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/InsertInterval/obj/Debug/netcoreapp3.1/InsertInterval.genruntimeconfig.cache

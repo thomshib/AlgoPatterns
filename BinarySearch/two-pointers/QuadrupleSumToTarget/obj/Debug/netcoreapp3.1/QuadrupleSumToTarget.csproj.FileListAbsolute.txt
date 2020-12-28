@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/obj/Debug/netcoreapp3.1/QuadrupleSumToTarget.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/obj/Debug/netcoreapp3.1/QuadrupleSumToTarget.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/obj/Debug/netcoreapp3.1/QuadrupleSumToTarget.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/obj/Debug/netcoreapp3.1/QuadrupleSumToTarget.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/bin/Debug/netcoreapp3.1/QuadrupleSumToTarget.deps.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/bin/Debug/netcoreapp3.1/QuadrupleSumToTarget.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/bin/Debug/netcoreapp3.1/QuadrupleSumToTarget.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/bin/Debug/netcoreapp3.1/QuadrupleSumToTarget.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/bin/Debug/netcoreapp3.1/QuadrupleSumToTarget.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/obj/Debug/netcoreapp3.1/QuadrupleSumToTarget.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/obj/Debug/netcoreapp3.1/QuadrupleSumToTarget.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/QuadrupleSumToTarget/obj/Debug/netcoreapp3.1/QuadrupleSumToTarget.genruntimeconfig.cache

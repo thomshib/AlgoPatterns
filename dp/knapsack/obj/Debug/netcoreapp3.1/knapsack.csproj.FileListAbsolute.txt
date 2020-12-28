@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/bin/Debug/netcoreapp3.1/knapsack.deps.json
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/bin/Debug/netcoreapp3.1/knapsack.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/bin/Debug/netcoreapp3.1/knapsack.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/bin/Debug/netcoreapp3.1/knapsack.dll
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/bin/Debug/netcoreapp3.1/knapsack.pdb
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/obj/Debug/netcoreapp3.1/knapsack.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/obj/Debug/netcoreapp3.1/knapsack.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/obj/Debug/netcoreapp3.1/knapsack.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/obj/Debug/netcoreapp3.1/knapsack.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/obj/Debug/netcoreapp3.1/knapsack.dll
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/obj/Debug/netcoreapp3.1/knapsack.pdb
+/Users/shibut/Documents/Samples/Algorithms/dp/knapsack/obj/Debug/netcoreapp3.1/knapsack.genruntimeconfig.cache

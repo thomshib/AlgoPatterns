@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/bin/Debug/netcoreapp3.1/SubsetSum.deps.json
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/bin/Debug/netcoreapp3.1/SubsetSum.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/bin/Debug/netcoreapp3.1/SubsetSum.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/bin/Debug/netcoreapp3.1/SubsetSum.dll
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/bin/Debug/netcoreapp3.1/SubsetSum.pdb
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/obj/Debug/netcoreapp3.1/SubsetSum.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/obj/Debug/netcoreapp3.1/SubsetSum.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/obj/Debug/netcoreapp3.1/SubsetSum.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/obj/Debug/netcoreapp3.1/SubsetSum.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/obj/Debug/netcoreapp3.1/SubsetSum.dll
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/obj/Debug/netcoreapp3.1/SubsetSum.pdb
+/Users/shibut/Documents/Samples/Algorithms/dp/SubsetSum/obj/Debug/netcoreapp3.1/SubsetSum.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/bin/Debug/netcoreapp3.1/LevelOrderTraversal.deps.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/bin/Debug/netcoreapp3.1/LevelOrderTraversal.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/bin/Debug/netcoreapp3.1/LevelOrderTraversal.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/bin/Debug/netcoreapp3.1/LevelOrderTraversal.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/bin/Debug/netcoreapp3.1/LevelOrderTraversal.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/obj/Debug/netcoreapp3.1/LevelOrderTraversal.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/obj/Debug/netcoreapp3.1/LevelOrderTraversal.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/obj/Debug/netcoreapp3.1/LevelOrderTraversal.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/obj/Debug/netcoreapp3.1/LevelOrderTraversal.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/obj/Debug/netcoreapp3.1/LevelOrderTraversal.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/obj/Debug/netcoreapp3.1/LevelOrderTraversal.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/LevelOrderTraversal/obj/Debug/netcoreapp3.1/LevelOrderTraversal.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+/Users/shibut/Documents/Samples/Algorithms/two-heaps/NextInterval/obj/Debug/netcoreapp3.1/NextInterval.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/two-heaps/NextInterval/obj/Debug/netcoreapp3.1/NextInterval.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-heaps/NextInterval/obj/Debug/netcoreapp3.1/NextInterval.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-heaps/NextInterval/obj/Debug/netcoreapp3.1/NextInterval.AssemblyInfo.cs

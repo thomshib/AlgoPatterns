@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/obj/Debug/netcoreapp3.1/StringPermutation.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/obj/Debug/netcoreapp3.1/StringPermutation.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/obj/Debug/netcoreapp3.1/StringPermutation.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/obj/Debug/netcoreapp3.1/StringPermutation.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/bin/Debug/netcoreapp3.1/StringPermutation.deps.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/bin/Debug/netcoreapp3.1/StringPermutation.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/bin/Debug/netcoreapp3.1/StringPermutation.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/bin/Debug/netcoreapp3.1/StringPermutation.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/bin/Debug/netcoreapp3.1/StringPermutation.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/obj/Debug/netcoreapp3.1/StringPermutation.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/obj/Debug/netcoreapp3.1/StringPermutation.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/StringPermutation/obj/Debug/netcoreapp3.1/StringPermutation.genruntimeconfig.cache

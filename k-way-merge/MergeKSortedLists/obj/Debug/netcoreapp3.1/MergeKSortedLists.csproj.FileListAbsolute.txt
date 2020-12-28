@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/bin/Debug/netcoreapp3.1/MergeKSortedLists.deps.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/bin/Debug/netcoreapp3.1/MergeKSortedLists.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/bin/Debug/netcoreapp3.1/MergeKSortedLists.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/bin/Debug/netcoreapp3.1/MergeKSortedLists.dll
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/bin/Debug/netcoreapp3.1/MergeKSortedLists.pdb
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/obj/Debug/netcoreapp3.1/MergeKSortedLists.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/obj/Debug/netcoreapp3.1/MergeKSortedLists.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/obj/Debug/netcoreapp3.1/MergeKSortedLists.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/obj/Debug/netcoreapp3.1/MergeKSortedLists.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/obj/Debug/netcoreapp3.1/MergeKSortedLists.dll
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/obj/Debug/netcoreapp3.1/MergeKSortedLists.pdb
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/MergeKSortedLists/obj/Debug/netcoreapp3.1/MergeKSortedLists.genruntimeconfig.cache

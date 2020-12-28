@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/obj/Debug/netcoreapp3.1/TaskScheduling.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/obj/Debug/netcoreapp3.1/TaskScheduling.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/obj/Debug/netcoreapp3.1/TaskScheduling.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/obj/Debug/netcoreapp3.1/TaskScheduling.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/bin/Debug/netcoreapp3.1/TaskScheduling.deps.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/bin/Debug/netcoreapp3.1/TaskScheduling.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/bin/Debug/netcoreapp3.1/TaskScheduling.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/bin/Debug/netcoreapp3.1/TaskScheduling.dll
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/bin/Debug/netcoreapp3.1/TaskScheduling.pdb
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/obj/Debug/netcoreapp3.1/TaskScheduling.dll
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/obj/Debug/netcoreapp3.1/TaskScheduling.pdb
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/TaskScheduling/obj/Debug/netcoreapp3.1/TaskScheduling.genruntimeconfig.cache

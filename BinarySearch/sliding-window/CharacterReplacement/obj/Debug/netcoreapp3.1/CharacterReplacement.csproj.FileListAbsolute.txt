@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/bin/Debug/netcoreapp3.1/CharacterReplacement.deps.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/bin/Debug/netcoreapp3.1/CharacterReplacement.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/bin/Debug/netcoreapp3.1/CharacterReplacement.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/bin/Debug/netcoreapp3.1/CharacterReplacement.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/bin/Debug/netcoreapp3.1/CharacterReplacement.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/obj/Debug/netcoreapp3.1/CharacterReplacement.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/obj/Debug/netcoreapp3.1/CharacterReplacement.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/obj/Debug/netcoreapp3.1/CharacterReplacement.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/obj/Debug/netcoreapp3.1/CharacterReplacement.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/obj/Debug/netcoreapp3.1/CharacterReplacement.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/obj/Debug/netcoreapp3.1/CharacterReplacement.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/CharacterReplacement/obj/Debug/netcoreapp3.1/CharacterReplacement.genruntimeconfig.cache

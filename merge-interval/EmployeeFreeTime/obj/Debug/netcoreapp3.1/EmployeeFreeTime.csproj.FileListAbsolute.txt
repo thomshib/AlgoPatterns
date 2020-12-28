@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/obj/Debug/netcoreapp3.1/EmployeeFreeTime.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/obj/Debug/netcoreapp3.1/EmployeeFreeTime.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/obj/Debug/netcoreapp3.1/EmployeeFreeTime.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/obj/Debug/netcoreapp3.1/EmployeeFreeTime.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/bin/Debug/netcoreapp3.1/EmployeeFreeTime.deps.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/bin/Debug/netcoreapp3.1/EmployeeFreeTime.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/bin/Debug/netcoreapp3.1/EmployeeFreeTime.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/bin/Debug/netcoreapp3.1/EmployeeFreeTime.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/bin/Debug/netcoreapp3.1/EmployeeFreeTime.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/obj/Debug/netcoreapp3.1/EmployeeFreeTime.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/obj/Debug/netcoreapp3.1/EmployeeFreeTime.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/EmployeeFreeTime/obj/Debug/netcoreapp3.1/EmployeeFreeTime.genruntimeconfig.cache

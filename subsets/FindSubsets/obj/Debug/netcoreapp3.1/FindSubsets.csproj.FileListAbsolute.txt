@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/bin/Debug/netcoreapp3.1/FindSubsets.deps.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/bin/Debug/netcoreapp3.1/FindSubsets.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/bin/Debug/netcoreapp3.1/FindSubsets.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/bin/Debug/netcoreapp3.1/FindSubsets.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/bin/Debug/netcoreapp3.1/FindSubsets.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/obj/Debug/netcoreapp3.1/FindSubsets.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/obj/Debug/netcoreapp3.1/FindSubsets.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/obj/Debug/netcoreapp3.1/FindSubsets.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/obj/Debug/netcoreapp3.1/FindSubsets.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/obj/Debug/netcoreapp3.1/FindSubsets.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/obj/Debug/netcoreapp3.1/FindSubsets.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/FindSubsets/obj/Debug/netcoreapp3.1/FindSubsets.genruntimeconfig.cache

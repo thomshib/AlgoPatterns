@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/bin/Debug/netcoreapp3.1/max-sum-array.deps.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/bin/Debug/netcoreapp3.1/max-sum-array.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/bin/Debug/netcoreapp3.1/max-sum-array.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/bin/Debug/netcoreapp3.1/max-sum-array.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/bin/Debug/netcoreapp3.1/max-sum-array.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/obj/Debug/netcoreapp3.1/max-sum-array.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/obj/Debug/netcoreapp3.1/max-sum-array.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/obj/Debug/netcoreapp3.1/max-sum-array.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/obj/Debug/netcoreapp3.1/max-sum-array.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/obj/Debug/netcoreapp3.1/max-sum-array.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/obj/Debug/netcoreapp3.1/max-sum-array.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/max-sum-array/obj/Debug/netcoreapp3.1/max-sum-array.genruntimeconfig.cache

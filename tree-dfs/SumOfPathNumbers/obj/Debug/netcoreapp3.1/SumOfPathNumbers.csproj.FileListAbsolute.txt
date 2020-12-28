@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/bin/Debug/netcoreapp3.1/SumOfPathNumbers.deps.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/bin/Debug/netcoreapp3.1/SumOfPathNumbers.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/bin/Debug/netcoreapp3.1/SumOfPathNumbers.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/bin/Debug/netcoreapp3.1/SumOfPathNumbers.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/bin/Debug/netcoreapp3.1/SumOfPathNumbers.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/obj/Debug/netcoreapp3.1/SumOfPathNumbers.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/obj/Debug/netcoreapp3.1/SumOfPathNumbers.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/obj/Debug/netcoreapp3.1/SumOfPathNumbers.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/obj/Debug/netcoreapp3.1/SumOfPathNumbers.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/obj/Debug/netcoreapp3.1/SumOfPathNumbers.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/obj/Debug/netcoreapp3.1/SumOfPathNumbers.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/SumOfPathNumbers/obj/Debug/netcoreapp3.1/SumOfPathNumbers.genruntimeconfig.cache

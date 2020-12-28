@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/bin/Debug/netcoreapp3.1/MinimumMeetingRooms.deps.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/bin/Debug/netcoreapp3.1/MinimumMeetingRooms.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/bin/Debug/netcoreapp3.1/MinimumMeetingRooms.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/bin/Debug/netcoreapp3.1/MinimumMeetingRooms.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/bin/Debug/netcoreapp3.1/MinimumMeetingRooms.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/obj/Debug/netcoreapp3.1/MinimumMeetingRooms.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/obj/Debug/netcoreapp3.1/MinimumMeetingRooms.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/obj/Debug/netcoreapp3.1/MinimumMeetingRooms.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/obj/Debug/netcoreapp3.1/MinimumMeetingRooms.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/obj/Debug/netcoreapp3.1/MinimumMeetingRooms.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/obj/Debug/netcoreapp3.1/MinimumMeetingRooms.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/MinimumMeetingRooms/obj/Debug/netcoreapp3.1/MinimumMeetingRooms.genruntimeconfig.cache

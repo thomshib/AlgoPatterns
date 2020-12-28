@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/bin/Debug/netcoreapp3.1/UniqueTrees.deps.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/bin/Debug/netcoreapp3.1/UniqueTrees.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/bin/Debug/netcoreapp3.1/UniqueTrees.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/bin/Debug/netcoreapp3.1/UniqueTrees.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/bin/Debug/netcoreapp3.1/UniqueTrees.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/obj/Debug/netcoreapp3.1/UniqueTrees.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/obj/Debug/netcoreapp3.1/UniqueTrees.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/obj/Debug/netcoreapp3.1/UniqueTrees.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/obj/Debug/netcoreapp3.1/UniqueTrees.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/obj/Debug/netcoreapp3.1/UniqueTrees.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/obj/Debug/netcoreapp3.1/UniqueTrees.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/UniqueTrees/obj/Debug/netcoreapp3.1/UniqueTrees.genruntimeconfig.cache

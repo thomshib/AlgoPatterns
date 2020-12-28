@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/bin/Debug/netcoreapp3.1/GeneralizedAbbreviation.deps.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/bin/Debug/netcoreapp3.1/GeneralizedAbbreviation.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/bin/Debug/netcoreapp3.1/GeneralizedAbbreviation.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/bin/Debug/netcoreapp3.1/GeneralizedAbbreviation.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/bin/Debug/netcoreapp3.1/GeneralizedAbbreviation.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/obj/Debug/netcoreapp3.1/GeneralizedAbbreviation.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/obj/Debug/netcoreapp3.1/GeneralizedAbbreviation.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/obj/Debug/netcoreapp3.1/GeneralizedAbbreviation.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/obj/Debug/netcoreapp3.1/GeneralizedAbbreviation.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/obj/Debug/netcoreapp3.1/GeneralizedAbbreviation.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/obj/Debug/netcoreapp3.1/GeneralizedAbbreviation.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/GeneralizedAbbreviation/obj/Debug/netcoreapp3.1/GeneralizedAbbreviation.genruntimeconfig.cache

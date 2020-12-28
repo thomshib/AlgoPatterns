@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/obj/Debug/netcoreapp3.1/TripletSumToZero.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/obj/Debug/netcoreapp3.1/TripletSumToZero.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/obj/Debug/netcoreapp3.1/TripletSumToZero.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/obj/Debug/netcoreapp3.1/TripletSumToZero.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/bin/Debug/netcoreapp3.1/TripletSumToZero.deps.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/bin/Debug/netcoreapp3.1/TripletSumToZero.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/bin/Debug/netcoreapp3.1/TripletSumToZero.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/bin/Debug/netcoreapp3.1/TripletSumToZero.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/bin/Debug/netcoreapp3.1/TripletSumToZero.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/obj/Debug/netcoreapp3.1/TripletSumToZero.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/obj/Debug/netcoreapp3.1/TripletSumToZero.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletSumToZero/obj/Debug/netcoreapp3.1/TripletSumToZero.genruntimeconfig.cache

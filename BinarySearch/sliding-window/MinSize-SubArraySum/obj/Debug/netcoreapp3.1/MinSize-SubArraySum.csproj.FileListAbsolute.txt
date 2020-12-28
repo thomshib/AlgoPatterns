@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/obj/Debug/netcoreapp3.1/MinSize-SubArraySum.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/obj/Debug/netcoreapp3.1/MinSize-SubArraySum.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/obj/Debug/netcoreapp3.1/MinSize-SubArraySum.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/obj/Debug/netcoreapp3.1/MinSize-SubArraySum.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/bin/Debug/netcoreapp3.1/MinSize-SubArraySum.deps.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/bin/Debug/netcoreapp3.1/MinSize-SubArraySum.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/bin/Debug/netcoreapp3.1/MinSize-SubArraySum.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/bin/Debug/netcoreapp3.1/MinSize-SubArraySum.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/bin/Debug/netcoreapp3.1/MinSize-SubArraySum.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/obj/Debug/netcoreapp3.1/MinSize-SubArraySum.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/obj/Debug/netcoreapp3.1/MinSize-SubArraySum.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/MinSize-SubArraySum/obj/Debug/netcoreapp3.1/MinSize-SubArraySum.genruntimeconfig.cache

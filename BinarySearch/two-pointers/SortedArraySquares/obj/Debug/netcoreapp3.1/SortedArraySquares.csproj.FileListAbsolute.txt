@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/bin/Debug/netcoreapp3.1/SortedArraySquares.deps.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/bin/Debug/netcoreapp3.1/SortedArraySquares.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/bin/Debug/netcoreapp3.1/SortedArraySquares.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/bin/Debug/netcoreapp3.1/SortedArraySquares.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/bin/Debug/netcoreapp3.1/SortedArraySquares.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/obj/Debug/netcoreapp3.1/SortedArraySquares.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/obj/Debug/netcoreapp3.1/SortedArraySquares.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/obj/Debug/netcoreapp3.1/SortedArraySquares.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/obj/Debug/netcoreapp3.1/SortedArraySquares.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/obj/Debug/netcoreapp3.1/SortedArraySquares.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/obj/Debug/netcoreapp3.1/SortedArraySquares.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/SortedArraySquares/obj/Debug/netcoreapp3.1/SortedArraySquares.genruntimeconfig.cache

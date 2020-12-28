@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/bin/Debug/netcoreapp3.1/TreePathSum.deps.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/bin/Debug/netcoreapp3.1/TreePathSum.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/bin/Debug/netcoreapp3.1/TreePathSum.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/bin/Debug/netcoreapp3.1/TreePathSum.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/bin/Debug/netcoreapp3.1/TreePathSum.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/obj/Debug/netcoreapp3.1/TreePathSum.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/obj/Debug/netcoreapp3.1/TreePathSum.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/obj/Debug/netcoreapp3.1/TreePathSum.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/obj/Debug/netcoreapp3.1/TreePathSum.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/obj/Debug/netcoreapp3.1/TreePathSum.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/obj/Debug/netcoreapp3.1/TreePathSum.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreePathSum/obj/Debug/netcoreapp3.1/TreePathSum.genruntimeconfig.cache

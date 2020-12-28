@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MinSize-SubArraySum/1.0.0": {
+        "runtime": {
+          "MinSize-SubArraySum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinSize-SubArraySum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/bin/Debug/netcoreapp3.1/MissingNumber.deps.json
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/bin/Debug/netcoreapp3.1/MissingNumber.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/bin/Debug/netcoreapp3.1/MissingNumber.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/bin/Debug/netcoreapp3.1/MissingNumber.dll
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/bin/Debug/netcoreapp3.1/MissingNumber.pdb
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/obj/Debug/netcoreapp3.1/MissingNumber.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/obj/Debug/netcoreapp3.1/MissingNumber.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/obj/Debug/netcoreapp3.1/MissingNumber.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/obj/Debug/netcoreapp3.1/MissingNumber.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/obj/Debug/netcoreapp3.1/MissingNumber.dll
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/obj/Debug/netcoreapp3.1/MissingNumber.pdb
+/Users/shibut/Documents/Samples/Algorithms/bitwise-xor/MissingNumber/obj/Debug/netcoreapp3.1/MissingNumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/bin/Debug/netcoreapp3.1/KLargestNumbers.deps.json
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/bin/Debug/netcoreapp3.1/KLargestNumbers.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/bin/Debug/netcoreapp3.1/KLargestNumbers.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/bin/Debug/netcoreapp3.1/KLargestNumbers.dll
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/bin/Debug/netcoreapp3.1/KLargestNumbers.pdb
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/obj/Debug/netcoreapp3.1/KLargestNumbers.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/obj/Debug/netcoreapp3.1/KLargestNumbers.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/obj/Debug/netcoreapp3.1/KLargestNumbers.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/obj/Debug/netcoreapp3.1/KLargestNumbers.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/obj/Debug/netcoreapp3.1/KLargestNumbers.dll
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/obj/Debug/netcoreapp3.1/KLargestNumbers.pdb
+/Users/shibut/Documents/Samples/Algorithms/topK/KLargestNumbers/obj/Debug/netcoreapp3.1/KLargestNumbers.genruntimeconfig.cache

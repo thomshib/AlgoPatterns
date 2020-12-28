@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/bin/Debug/netcoreapp3.1/TripletWithSmallerSum.deps.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/bin/Debug/netcoreapp3.1/TripletWithSmallerSum.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/bin/Debug/netcoreapp3.1/TripletWithSmallerSum.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/bin/Debug/netcoreapp3.1/TripletWithSmallerSum.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/bin/Debug/netcoreapp3.1/TripletWithSmallerSum.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/obj/Debug/netcoreapp3.1/TripletWithSmallerSum.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/obj/Debug/netcoreapp3.1/TripletWithSmallerSum.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/obj/Debug/netcoreapp3.1/TripletWithSmallerSum.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/obj/Debug/netcoreapp3.1/TripletWithSmallerSum.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/obj/Debug/netcoreapp3.1/TripletWithSmallerSum.dll
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/obj/Debug/netcoreapp3.1/TripletWithSmallerSum.pdb
+/Users/shibut/Documents/Samples/Algorithms/two-pointers/TripletWithSmallerSum/obj/Debug/netcoreapp3.1/TripletWithSmallerSum.genruntimeconfig.cache

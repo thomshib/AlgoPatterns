@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/bin/Debug/netcoreapp3.1/RotateList.deps.json
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/bin/Debug/netcoreapp3.1/RotateList.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/bin/Debug/netcoreapp3.1/RotateList.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/bin/Debug/netcoreapp3.1/RotateList.dll
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/bin/Debug/netcoreapp3.1/RotateList.pdb
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/obj/Debug/netcoreapp3.1/RotateList.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/obj/Debug/netcoreapp3.1/RotateList.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/obj/Debug/netcoreapp3.1/RotateList.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/obj/Debug/netcoreapp3.1/RotateList.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/obj/Debug/netcoreapp3.1/RotateList.dll
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/obj/Debug/netcoreapp3.1/RotateList.pdb
+/Users/shibut/Documents/Samples/Algorithms/linked-list-reversal/RotateList/obj/Debug/netcoreapp3.1/RotateList.genruntimeconfig.cache

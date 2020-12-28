@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/bin/Debug/netcoreapp3.1/SmallestRange.deps.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/bin/Debug/netcoreapp3.1/SmallestRange.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/bin/Debug/netcoreapp3.1/SmallestRange.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/bin/Debug/netcoreapp3.1/SmallestRange.dll
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/bin/Debug/netcoreapp3.1/SmallestRange.pdb
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/obj/Debug/netcoreapp3.1/SmallestRange.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/obj/Debug/netcoreapp3.1/SmallestRange.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/obj/Debug/netcoreapp3.1/SmallestRange.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/obj/Debug/netcoreapp3.1/SmallestRange.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/obj/Debug/netcoreapp3.1/SmallestRange.dll
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/obj/Debug/netcoreapp3.1/SmallestRange.pdb
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/SmallestRange/obj/Debug/netcoreapp3.1/SmallestRange.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/obj/Debug/netcoreapp3.1/LongestSubstringKDistinct.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/obj/Debug/netcoreapp3.1/LongestSubstringKDistinct.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/obj/Debug/netcoreapp3.1/LongestSubstringKDistinct.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/obj/Debug/netcoreapp3.1/LongestSubstringKDistinct.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/bin/Debug/netcoreapp3.1/LongestSubstringKDistinct.deps.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/bin/Debug/netcoreapp3.1/LongestSubstringKDistinct.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/bin/Debug/netcoreapp3.1/LongestSubstringKDistinct.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/bin/Debug/netcoreapp3.1/LongestSubstringKDistinct.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/bin/Debug/netcoreapp3.1/LongestSubstringKDistinct.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/obj/Debug/netcoreapp3.1/LongestSubstringKDistinct.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/obj/Debug/netcoreapp3.1/LongestSubstringKDistinct.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/LongestSubstringKDistinct/obj/Debug/netcoreapp3.1/LongestSubstringKDistinct.genruntimeconfig.cache

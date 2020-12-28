@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/bin/Debug/netcoreapp3.1/TreeDiameter.deps.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/bin/Debug/netcoreapp3.1/TreeDiameter.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/bin/Debug/netcoreapp3.1/TreeDiameter.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/bin/Debug/netcoreapp3.1/TreeDiameter.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/bin/Debug/netcoreapp3.1/TreeDiameter.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/obj/Debug/netcoreapp3.1/TreeDiameter.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/obj/Debug/netcoreapp3.1/TreeDiameter.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/obj/Debug/netcoreapp3.1/TreeDiameter.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/obj/Debug/netcoreapp3.1/TreeDiameter.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/obj/Debug/netcoreapp3.1/TreeDiameter.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/obj/Debug/netcoreapp3.1/TreeDiameter.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-dfs/TreeDiameter/obj/Debug/netcoreapp3.1/TreeDiameter.genruntimeconfig.cache

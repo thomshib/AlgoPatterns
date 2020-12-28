@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/obj/Debug/netcoreapp3.1/IntervalsIntersection.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/obj/Debug/netcoreapp3.1/IntervalsIntersection.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/obj/Debug/netcoreapp3.1/IntervalsIntersection.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/obj/Debug/netcoreapp3.1/IntervalsIntersection.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/bin/Debug/netcoreapp3.1/IntervalsIntersection.deps.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/bin/Debug/netcoreapp3.1/IntervalsIntersection.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/bin/Debug/netcoreapp3.1/IntervalsIntersection.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/bin/Debug/netcoreapp3.1/IntervalsIntersection.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/bin/Debug/netcoreapp3.1/IntervalsIntersection.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/obj/Debug/netcoreapp3.1/IntervalsIntersection.dll
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/obj/Debug/netcoreapp3.1/IntervalsIntersection.pdb
+/Users/shibut/Documents/Samples/Algorithms/merge-interval/IntervalsIntersection/obj/Debug/netcoreapp3.1/IntervalsIntersection.genruntimeconfig.cache

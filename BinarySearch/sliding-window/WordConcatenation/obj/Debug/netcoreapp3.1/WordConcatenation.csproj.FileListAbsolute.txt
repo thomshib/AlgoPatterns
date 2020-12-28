@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/bin/Debug/netcoreapp3.1/WordConcatenation.deps.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/bin/Debug/netcoreapp3.1/WordConcatenation.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/bin/Debug/netcoreapp3.1/WordConcatenation.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/bin/Debug/netcoreapp3.1/WordConcatenation.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/bin/Debug/netcoreapp3.1/WordConcatenation.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/obj/Debug/netcoreapp3.1/WordConcatenation.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/obj/Debug/netcoreapp3.1/WordConcatenation.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/obj/Debug/netcoreapp3.1/WordConcatenation.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/obj/Debug/netcoreapp3.1/WordConcatenation.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/obj/Debug/netcoreapp3.1/WordConcatenation.dll
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/obj/Debug/netcoreapp3.1/WordConcatenation.pdb
+/Users/shibut/Documents/Samples/Algorithms/sliding-window/WordConcatenation/obj/Debug/netcoreapp3.1/WordConcatenation.genruntimeconfig.cache

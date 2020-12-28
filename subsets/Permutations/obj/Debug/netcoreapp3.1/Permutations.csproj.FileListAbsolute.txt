@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/bin/Debug/netcoreapp3.1/Permutations.deps.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/bin/Debug/netcoreapp3.1/Permutations.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/bin/Debug/netcoreapp3.1/Permutations.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/bin/Debug/netcoreapp3.1/Permutations.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/bin/Debug/netcoreapp3.1/Permutations.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/obj/Debug/netcoreapp3.1/Permutations.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/obj/Debug/netcoreapp3.1/Permutations.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/obj/Debug/netcoreapp3.1/Permutations.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/obj/Debug/netcoreapp3.1/Permutations.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/obj/Debug/netcoreapp3.1/Permutations.dll
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/obj/Debug/netcoreapp3.1/Permutations.pdb
+/Users/shibut/Documents/Samples/Algorithms/subsets/Permutations/obj/Debug/netcoreapp3.1/Permutations.genruntimeconfig.cache

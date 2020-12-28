@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/obj/Debug/netcoreapp3.1/sort.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/obj/Debug/netcoreapp3.1/sort.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/obj/Debug/netcoreapp3.1/sort.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/obj/Debug/netcoreapp3.1/sort.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/bin/Debug/netcoreapp3.1/sort.deps.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/bin/Debug/netcoreapp3.1/sort.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/bin/Debug/netcoreapp3.1/sort.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/bin/Debug/netcoreapp3.1/sort.dll
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/bin/Debug/netcoreapp3.1/sort.pdb
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/obj/Debug/netcoreapp3.1/sort.dll
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/obj/Debug/netcoreapp3.1/sort.pdb
+/Users/shibut/Documents/Samples/Algorithms/topological-sort/sort/obj/Debug/netcoreapp3.1/sort.genruntimeconfig.cache

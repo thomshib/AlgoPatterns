@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/obj/Debug/netcoreapp3.1/LargestPairs.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/obj/Debug/netcoreapp3.1/LargestPairs.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/obj/Debug/netcoreapp3.1/LargestPairs.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/obj/Debug/netcoreapp3.1/LargestPairs.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/bin/Debug/netcoreapp3.1/LargestPairs.deps.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/bin/Debug/netcoreapp3.1/LargestPairs.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/bin/Debug/netcoreapp3.1/LargestPairs.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/bin/Debug/netcoreapp3.1/LargestPairs.dll
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/bin/Debug/netcoreapp3.1/LargestPairs.pdb
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/obj/Debug/netcoreapp3.1/LargestPairs.dll
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/obj/Debug/netcoreapp3.1/LargestPairs.pdb
+/Users/shibut/Documents/Samples/Algorithms/k-way-merge/LargestPairs/obj/Debug/netcoreapp3.1/LargestPairs.genruntimeconfig.cache

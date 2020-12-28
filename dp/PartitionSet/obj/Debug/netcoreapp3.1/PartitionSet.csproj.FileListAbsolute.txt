@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/bin/Debug/netcoreapp3.1/PartitionSet.deps.json
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/bin/Debug/netcoreapp3.1/PartitionSet.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/bin/Debug/netcoreapp3.1/PartitionSet.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/bin/Debug/netcoreapp3.1/PartitionSet.dll
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/bin/Debug/netcoreapp3.1/PartitionSet.pdb
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/obj/Debug/netcoreapp3.1/PartitionSet.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/obj/Debug/netcoreapp3.1/PartitionSet.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/obj/Debug/netcoreapp3.1/PartitionSet.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/obj/Debug/netcoreapp3.1/PartitionSet.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/obj/Debug/netcoreapp3.1/PartitionSet.dll
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/obj/Debug/netcoreapp3.1/PartitionSet.pdb
+/Users/shibut/Documents/Samples/Algorithms/dp/PartitionSet/obj/Debug/netcoreapp3.1/PartitionSet.genruntimeconfig.cache

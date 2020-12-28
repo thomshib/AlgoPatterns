@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/bin/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.deps.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/bin/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/bin/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/bin/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/bin/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/obj/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/obj/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/obj/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/obj/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/obj/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.dll
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/obj/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.pdb
+/Users/shibut/Documents/Samples/Algorithms/tree-bfs/MinimumBinaryTreeDepth/obj/Debug/netcoreapp3.1/MinimumBinaryTreeDepth.genruntimeconfig.cache

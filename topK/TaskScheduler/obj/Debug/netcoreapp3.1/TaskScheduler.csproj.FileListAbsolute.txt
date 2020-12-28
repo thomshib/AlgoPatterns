@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/obj/Debug/netcoreapp3.1/TaskScheduler.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/obj/Debug/netcoreapp3.1/TaskScheduler.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/obj/Debug/netcoreapp3.1/TaskScheduler.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/obj/Debug/netcoreapp3.1/TaskScheduler.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/bin/Debug/netcoreapp3.1/TaskScheduler.deps.json
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/bin/Debug/netcoreapp3.1/TaskScheduler.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/bin/Debug/netcoreapp3.1/TaskScheduler.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/bin/Debug/netcoreapp3.1/TaskScheduler.dll
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/bin/Debug/netcoreapp3.1/TaskScheduler.pdb
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/obj/Debug/netcoreapp3.1/TaskScheduler.dll
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/obj/Debug/netcoreapp3.1/TaskScheduler.pdb
+/Users/shibut/Documents/Samples/Algorithms/topK/TaskScheduler/obj/Debug/netcoreapp3.1/TaskScheduler.genruntimeconfig.cache
